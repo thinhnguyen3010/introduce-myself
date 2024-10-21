@@ -1,7 +1,8 @@
 header{
-    background: linear-gradient(skyblue, lightgreen);
+    background-color: black;
     background-attachment:fixed;
     background-repeat: no-repeat;
+    color: white;
 }
  #ten{
     font-family:  Brush Script MT;
@@ -10,7 +11,7 @@ header{
     margin-left: 70px;
  }
  body{
-    background-image: url(pngtree-aurora-borealis-on-night-sky-over-winter-landscape-with-rocks-aurora-picture-image_2294018.jpg);
+    background-image: url(bautroisao.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
