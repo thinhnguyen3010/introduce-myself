@@ -23,11 +23,11 @@ header{
 
  }
  #introduction{
-    background-color: white;
+    background-color: black;
     margin-left: 500px;
     max-width: 400px;
-
- }
+    font-family:  Brush Script MT;
+}
  footer{
     margin-top: 350px;
     background-color: aqua;
